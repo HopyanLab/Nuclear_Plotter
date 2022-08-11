@@ -1,0 +1,9 @@
+aicsimageio==4.8.0
+bioformats-jar==2020.5.27
+mahotas==1.4.11
+matplotlib==3.5.2
+numpy==1.22.4
+Pillow==8.4.0
+PyQt5==5.15.4
+scipy==1.8.1
+trimesh==3.9.32
