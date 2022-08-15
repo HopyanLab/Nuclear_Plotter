@@ -1383,7 +1383,7 @@ class Window (QWidget):
 		if not self.file_dialog():
 			return
 		try:
-			self.image_stack = AICSImage(str(self.file_path))
+			self.image_stack = AICSImage(self.file_path)
 			self.channel_names = self.image_stack.channel_names
 			print(self.channel_names)
 			self.x_size = self.image_stack.shape[-1]
