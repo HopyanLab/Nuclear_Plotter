@@ -1,0 +1,6 @@
+Nuclear Plotter
+
+Requires the python packages listed in requirements.txt.
+
+GUI for finding marked cell nuclei and determining whether they are in the epithelium or not.
+User sets thresholds for identifying nuclei of interest and classifying different epithelial tissue.
